@@ -1,3 +1,4 @@
+![Uploading Снимок экрана 2026-09-25 231333.png…]()
 ## Final Build & Submitting
 - Designed 100% mechanical keyboard schematic and PCB matrix in KiCad.
 - Modeled custom case in Blender.
