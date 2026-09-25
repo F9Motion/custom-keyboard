@@ -21,3 +21,7 @@ I couldn't get WakaTime or Hackatime set up in KiCad and Python, so I logged my 
 
 ---
 *Goal: Earning grants to upgrade my setup for 3D/motion design and programming.*
+
+
+OBS Records here
+https://drive.google.com/file/d/1E9bWM679YsbYzSZpu9cri97T7-0eDaXO/view?usp=sharing
