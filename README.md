@@ -1,23 +1,23 @@
-# custom-keyboard
-Custom mechanical keyboard project for Hack Club Forge
+# Custom Mechanical Keyboard
 
+Custom mechanical keyboard project built for **Hack Club Forge**.
 
-I start with keyboard becouse I like keyboards and I'm very interesting in Gaming and working setups from pinterest so I did keyboard.
-I did this keyboard with KiCad, Blender and Phyton
-In kicad schematic I did 100% type keyboard I use 1.00u sw_push buttons diods for ghosting. I use Raspberry pico too.
-Than I open PCB editor and move buttons for standart form
-In this project I learn write Firmware in phyton
-I dont use hakatime or wakatime I couldn't download watatime to kicad and phyton so I just record my work in OBS studio
-My target is buy new PC with 5600+4060)
-@mods please approve this project : D
+## About The Project
 
-I spend time:
-Custom Keyboard
-0:30:36
-0:36:44
-1:19:26
-1:31:55
-0:33:13
-0:1:55
-2:03:26
-Total: 6:37:15  (6 hours 37 minutes 15 seconds)
+I started this project because I'm genuinely interested in gaming and workspace setups. I designed a 100% layout custom mechanical keyboard from scratch using **KiCad**, **Blender**, and **Python**.
+
+### Key Features & Design Process:
+- **Schematic & PCB:** Designed in KiCad using a 12x11 matrix setup, 1.00u push buttons, and diodes for anti-ghosting, powered by a Raspberry Pi Pico (RP2040).
+- **3D Case:** Modeled in Blender to fit the full-size layout.
+- **Firmware:** Custom CircuitPython matrix scan firmware written from scratch.
+
+## Time Tracking & Proof
+
+I couldn't get WakaTime or Hackatime set up in KiCad and Python, so I logged my entire workflow using **OBS Studio** screen recordings.
+
+### Time Breakdown:
+- **Work Sessions:** `0:30:36` + `0:36:44` + `1:19:26` + `1:31:55` + `0:33:13` + `0:01:55` + `2:03:26`
+- **Total Time:** **6 hours 37 minutes 15 seconds**
+
+---
+*Goal: Earning grants to upgrade my setup for 3D/motion design and programming.*
