@@ -1,27 +1,36 @@
-# Custom Mechanical Keyboard
+[Firmware.py](https://github.com/user-attachments/files/32808392/Firmware.py)# BEST KEYBOARD PROJECT EVER!!!
 
-Custom mechanical keyboard project built for **Hack Club Forge**.
+hey! this is text explaining what my awesome project is :)
 
-## About The Project
+here's an AWESOME screenshoot of my keyboard in action!
+<img width="1574" height="735" alt="PCB" src="https://github.com/user-attachments/assets/104c50a0-d0b8-4e00-a302-8a65d66b08e7" />
 
-I started this project because I'm genuinely interested in gaming and workspace setups. I designed a 100% layout custom mechanical keyboard from scratch using **KiCad**, **Blender**, and **Python**.
+## HOW THIS WAS MADE
 
-### Key Features & Design Process:
-- **Schematic & PCB:** Designed in KiCad using a 12x11 matrix setup, 1.00u push buttons, and diodes for anti-ghosting, powered by a Raspberry Pi Pico (RP2040).
-- **3D Case:** Modeled in Blender to fit the full-size layout.
-- **Firmware:** Custom CircuitPython matrix scan firmware written from scratch.
+this custom keyboard was designed in [KiCad](https://www.kicad.org/) for the PCB, modeled in [Blender](https://www.blender.org/) for the 3D-printed enclosure, and runs on [CircuitPython](https://circuitpython.org/) :D
 
-## Time Tracking & Proof
+# Heres how to setup and flash the project :)
+Clone the repository to your device:
+git clone **https://github.com/f9motion/custom-keyboard**
 
-I couldn't get WakaTime or Hackatime set up in KiCad and Python, so I logged my entire workflow using **OBS Studio** screen recordings.
+Connect your microcontroller board in BOOTLOADER mode via USB
 
-### Time Breakdown:
-- **Work Sessions:** `0:30:36` + `0:36:44` + `1:19:26` + `1:31:55` + `0:33:13` + `0:01:55` + `2:03:26`
-- **Total Time:** **6 hours 37 minutes 15 seconds**
+Copy the CircuitPython firmware files and keymap script to your device drive
+firmware in my github repositorie ~~https://github.com/f9motion/custom-keyboard~~
 
----
-*Goal: Earning grants to upgrade my setup for 3D/motion design and programming.*
+Disconnect, plug in, and type away!
+and be joyous!
+# Sreenshots
+**Schematic in KiCad:**
+<img width="771" height="814" alt="Снимок экрана 2026-09-29 194951" src="https://github.com/user-attachments/assets/768e9a97-d7e8-4adf-89c1-6c164368ec7f" />
+<img width="1421" height="575" alt="Снимок экрана 2026-09-29 194942" src="https://github.com/user-attachments/assets/ced3f7e3-27c7-4b05-9d85-cd66b9a61fdd" />
+
+**PCB editor:**
+<img width="1574" height="735" alt="PCB" src="https://github.com/user-attachments/assets/9e1141dd-818d-4d12-8ecc-922c152f50a6" />
+
+**Case in blender 3.6**
+<img width="1297" height="772" alt="Снимок экрана 2026-09-29 195045" src="https://github.com/user-attachments/assets/a7060b71-c3a4-43e6-975c-f368986e9f85" />
 
 
-OBS Records here
-https://drive.google.com/file/d/1E9bWM679YsbYzSZpu9cri97T7-0eDaXO/view?usp=sharing
+AI DISCLOSURE
+Ai helped me to now microcontroller name and how much u in shift ctrl etc (u is size) and helped to write firmware
