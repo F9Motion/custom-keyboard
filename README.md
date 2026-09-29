@@ -1,4 +1,4 @@
-[Firmware.py](https://github.com/user-attachments/files/32808392/Firmware.py)# BEST KEYBOARD PROJECT EVER!!!
+# BEST KEYBOARD PROJECT EVER!!!
 
 hey! this is text explaining what my awesome project is :)
 
