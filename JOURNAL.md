@@ -33,3 +33,9 @@ I open case project and near the case I started do keycaps. I chose black white 
 
 **OBS https://youtu.be/j6rzwQuYg7c**
 **Timelaps https://youtu.be/f1GuJOrHSng**
+
+# Screenshots:
+<img width="771" height="814" alt="Снимок экрана 2026-09-29 194951" src="https://github.com/user-attachments/assets/26ee98df-14e0-40aa-ac96-f312e22395a5" />
+<img width="1421" height="575" alt="Снимок экрана 2026-09-29 194942" src="https://github.com/user-attachments/assets/947dda19-f34e-4f73-99a2-162e5db2f072" />
+<img width="1297" height="772" alt="Снимок экрана 2026-09-29 195045" src="https://github.com/user-attachments/assets/c94eee34-2ad6-4037-bd00-1f283a93cc7f" />
+
