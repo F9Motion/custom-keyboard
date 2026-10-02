@@ -22,9 +22,9 @@ At first we add time, board etc. To do this in python we write just import time,
 
 In short: firmware needed to explain pico what that have to do when which button pressed
 I do many mistaked and Ai helped me fix this mistakes.
-<img width="797" height="584" alt="Снимок экрана 2026-10-02 224113" src="https://github.com/user-attachments/assets/254621de-de35-4ccb-b1f6-88d708a9554a" />
 **Total Spent time: 02:03:26**
-<img width="797" height="584" alt="Снимок экрана 2026-10-02 224113" src="https://github.com/user-attachments/assets/df799c4c-a7a8-4dcd-9b84-460f60bc2828" />
+![Uploading Снимок экрана 2026-10-02 224113.png…]()
+
 
 # INFORMATION!
 After all of this I spent this project to forge moderators. They returned this project and in this moment I came up with the idea of ​​making a custom keycap.
