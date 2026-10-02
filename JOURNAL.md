@@ -23,7 +23,7 @@ At first we add time, board etc. To do this in python we write just import time,
 In short: firmware needed to explain pico what that have to do when which button pressed
 I do many mistaked and Ai helped me fix this mistakes.
 **Total Spent time: 02:03:26**
-![Uploading Снимок экрана 2026-10-02 224113.png…]()
+<img width="797" height="584" alt="Снимок экрана 2026-10-02 224113" src="https://github.com/user-attachments/assets/3fbcd612-876f-4313-9bb3-a3615e618c39" />
 
 
 # INFORMATION!
