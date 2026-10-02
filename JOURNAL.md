@@ -29,3 +29,7 @@ I open case project and near the case I started do keycaps. I chose black white 
 **Total Spent time: 3:05:06**
 
 # TOTAL TIME OF ALL DAYS: 9:42:21 (9 hours 42 minutes 21 secons)
+
+
+**OBS https://youtu.be/j6rzwQuYg7c**
+**Timelaps https://youtu.be/f1GuJOrHSng**
