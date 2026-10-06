@@ -31,6 +31,8 @@ and be joyous!
 **Case in blender 3.6**
 <img width="1297" height="772" alt="Снимок экрана 2026-09-29 195045" src="https://github.com/user-attachments/assets/a7060b71-c3a4-43e6-975c-f368986e9f85" />
 
+# Here is BOM file!
+[BOM.csv](https://github.com/user-attachments/files/33116295/BOM.csv)
 
 AI DISCLOSURE
 Ai helped me to now microcontroller name and how much u in shift ctrl etc (u is size) and helped to write firmware
