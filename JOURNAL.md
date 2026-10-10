@@ -34,6 +34,13 @@ I open case project and near the case I started do keycaps. I chose black white 
 <img width="1065" height="337" alt="Снимок экрана 2026-10-02 224205" src="https://github.com/user-attachments/assets/5074ef5f-b144-4697-95d9-f14078a6e8ff" />
 **Total time spent: 3 hours**
 
+# October 9: Add more details
+I think this is boring keycaps and case shows PCB so I add top case to hold PCB. And I deleted F9 key and add my youtube logo! (Channel name: F9Motion). And I add russian characters. Then I assemble my keyboard to see how it will look if I do this! In M button I deleted M and made Minecraft button! In the end I added logo of programs what I like to customize more keyboard.
+(I record this in Laps I don't did this in OBS Studio)
+<img width="1920" height="1080" alt="untitled" src="https://github.com/user-attachments/assets/b48d23cd-5186-4170-9829-831ad0f185b4" />
+
+**Total time spent: 2.3 hours**
+
 
 **OBS https://youtu.be/j6rzwQuYg7c**
 **Timelaps https://youtu.be/f1GuJOrHSng**
