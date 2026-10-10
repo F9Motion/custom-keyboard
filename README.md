@@ -39,11 +39,13 @@ and be joyous!
 | Switchs        | $24.4  | https://aliexpress.ru/item/1005009446526905.html?spm=a2g2w.cart.cart_split.2.36c84aa6Uj1yYg&sku_id=12000049127519972                                       |
 | Diodes x3      | $6.12  | https://aliexpress.ru/item/1005008957914820.html?spm=a2g2w.cart.cart_split.8.36c84aa6Uj1yYg&sku_id=12000047366893545                                       |
 | Pico           | $2.2   | https://aliexpress.ru/item/1005003371056277.html?sku_id=12000035247643698                                                                                  |
-| Soldering iron | $4.36  | https://aliexpress.ru/item/32889029087.html?shpMethod=AE_CN_SUPER_ECONOMY_G&sku_id=12000036063038181&spm=a2g2w.productlist.search_results.0.5a2f3831nIBAqg |
-| Filament price for 3d print|        |                                                                                                                                                |
-| **Object name** | **Weight** | **Cost**                                                                                                                                              |
-|
-
+| Solder         | $4.36  | https://aliexpress.ru/item/32889029087.html?shpMethod=AE_CN_SUPER_ECONOMY_G&sku_id=12000036063038181&spm=a2g2w.productlist.search_results.0.5a2f3831nIBAqg |
+| Filament price for 3d print  |                                        | WARNING: All price took from Bambu Studio!!!                                                                 |
+| **Object name**     | **Weight** | **Cost**                                                                                                                                          |
+| Case.step           | 153.95g    | $2.77                                                                                                                                             |
+| keycaps.step        | 129.47g    | $2.59                                                                                                                                             |
+| switch holder.step  | 29.67g     | $0.53                                                                                                                                             |
+| TOTAL OF ALL: | | $64.73 |
 
 
 AI DISCLOSURE
