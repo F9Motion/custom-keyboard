@@ -46,7 +46,7 @@ and be joyous!
 | Case.step           | 153.95g    | $2.77                                                                                                                                             |
 | keycaps.step        | 129.47g    | $2.59                                                                                                                                             |
 | switch holder.step  | 29.67g     | $0.53                                                                                                                                             |
-| TOTAL OF ALL: | | $64.73 |
+| TOTAL OF ALL: | | $123.92 |
 
 
 AI DISCLOSURE
