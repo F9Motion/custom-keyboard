@@ -40,6 +40,7 @@ and be joyous!
 | Diodes x3      | $6.12  | https://aliexpress.ru/item/1005008957914820.html?spm=a2g2w.cart.cart_split.8.36c84aa6Uj1yYg&sku_id=12000047366893545                                       |
 | Pico           | $2.2   | https://aliexpress.ru/item/1005003371056277.html?sku_id=12000035247643698                                                                                  |
 | Solder         | $4.36  | https://aliexpress.ru/item/32889029087.html?shpMethod=AE_CN_SUPER_ECONOMY_G&sku_id=12000036063038181&spm=a2g2w.productlist.search_results.0.5a2f3831nIBAqg |
+| Print PCB | $59.19 | 
 | Filament price for 3d print  |                                        | WARNING: All price took from Bambu Studio!!!                                                                 |
 | **Object name**     | **Weight** | **Cost**                                                                                                                                          |
 | Case.step           | 153.95g    | $2.77                                                                                                                                             |
